@@ -4,9 +4,7 @@ An AI-powered resume analyzer. Upload your resume as a PDF, paste the job you're
 
 Built with **React Router v8**, **React 19**, **TypeScript**, **Tailwind CSS v4**, and **[Puter.js](https://developer.puter.com/)** for authentication, file storage, key-value storage, and AI.
 
-<!-- Add a screenshot or demo GIF here, e.g.:
-![Resumind dashboard](./docs/dashboard.png)
--->
+![alt text](image.png)
 
 ## Features
 
